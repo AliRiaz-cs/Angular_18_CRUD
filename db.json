@@ -1,0 +1,24 @@
+{
+  "employees": [
+    {
+      "id": "9892",
+      "name": "Ali Riaz",
+      "city": "Karachi",
+      "address": "A-789 Street 9 Block H North Nazimabad, Karachi",
+      "contactNo": "323",
+      "emailId": "aliriaz0700@gmail.com",
+      "pinCode": "746003",
+      "state": "3232"
+    },
+    {
+      "id": "b305",
+      "name": "Ali Riaz",
+      "city": "Karachi",
+      "address": "A-789 Street 9 Block H North Nazimabad, Karachi",
+      "contactNo": "23",
+      "emailId": "aliriaz0700@gmail.com",
+      "pinCode": "7460033",
+      "state": "32"
+    }
+  ]
+}
